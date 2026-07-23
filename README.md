@@ -23,7 +23,7 @@ The SSH service was initially running on the default port (22).
 
 ### Initial Scan
 
-![Before Scan](before-scan.png)
+![Before Scan](screenshots/before-scan.png)
 
 ---
 
@@ -33,7 +33,7 @@ The SSH server configuration was modified by changing the default SSH port from 
 
 ### Configuration File
 
-![SSH Configuration](sshd-config-port2098.png)
+![SSH Configuration](screenshots/sshd-config-port2098.png)
 
 ---
 
@@ -43,7 +43,7 @@ After restarting the SSH service, a new Nmap scan confirmed that SSH was availab
 
 ### Final Scan
 
-![After Scan](after-scan.png)
+![After Scan](screenshots/after-scan.png)
 
 ---
 
